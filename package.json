@@ -1,0 +1,7 @@
+{
+    "private": true,
+    "scripts": {
+        "start": "dotnet tool restore",
+        "format": "dotnet fantomas --recurse ./src"
+    }
+}
