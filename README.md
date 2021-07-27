@@ -1,5 +1,7 @@
 # Rider and Fantomas Repro
 
+> The repository is archived as this issue was fixed in [this PR](https://github.com/JetBrains/resharper-fsharp/pull/298)
+
 ## Reproduction
 1. Ctrl+Alt+L in Rider
 2. Inspect changes in git
